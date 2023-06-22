@@ -8,18 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel>
-            <Button Content="ád"/>
-            <Button Content="aaa"/>
-            <Button Content="aaa"/>
-            <Button Content="aaa"/>
-            <Button Content="aaa"/>
-            <Button Content="aaa"/>
-        </StackPanel>
-        <StackPanel>
-            <Button Content="aaa"/>
-        </StackPanel>
-        <StackPanel>
-            <Button Content="aaa"/>
+            <Button Content="dđ"/>
+            <Button Content="đ"/>
         </StackPanel>
     </Grid>
 </Window>
