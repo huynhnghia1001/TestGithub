@@ -30,6 +30,10 @@ namespace TestGithub
 =======
         string d = "xin";
         public int b = 5;
+        void edit()
+        {
+
+        }
 >>>>>>> 7b1432ec59634367a743ca81cdd11285771c8ab4
         void functionasdas()
         {
