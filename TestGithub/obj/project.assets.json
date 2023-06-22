@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Demo1\\TestGithub\\TestGithub\\TestGithub.csproj",
+      "projectUniqueName": "E:\\C#\\Vira\\tongHop\\TestGithub\\TestGithub\\TestGithub.csproj",
       "projectName": "TestGithub",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Demo1\\TestGithub\\TestGithub\\TestGithub.csproj",
+      "projectPath": "E:\\C#\\Vira\\tongHop\\TestGithub\\TestGithub\\TestGithub.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Demo1\\TestGithub\\TestGithub\\obj\\",
+      "outputPath": "E:\\C#\\Vira\\tongHop\\TestGithub\\TestGithub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
