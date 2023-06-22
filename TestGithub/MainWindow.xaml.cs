@@ -27,10 +27,9 @@ namespace TestGithub
 <<<<<<< HEAD
         int a = 3;
 =======
-        string c = "xin chao";
-        int b = 5;
 =======
         string d = "xin asdasdasds";
+        public int b = 5;
 >>>>>>> 7b1432ec59634367a743ca81cdd11285771c8ab4
     }
 }
