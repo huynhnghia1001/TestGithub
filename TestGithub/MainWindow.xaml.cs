@@ -24,5 +24,6 @@ namespace TestGithub
         {
             InitializeComponent();
         }
+        string c = "xin chao";
     }
 }
