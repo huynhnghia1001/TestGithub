@@ -24,5 +24,6 @@ namespace TestGithub
         {
             InitializeComponent();
         }
+        int a = 3;
     }
 }
