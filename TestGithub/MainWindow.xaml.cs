@@ -24,6 +24,10 @@ namespace TestGithub
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         int a = 3;
+=======
+        string c = "xin chao";
+>>>>>>> 7b1432ec59634367a743ca81cdd11285771c8ab4
     }
 }
