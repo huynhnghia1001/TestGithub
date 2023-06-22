@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\TestGithub\\TestGithub\\TestGithub.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Demo1\\TestGithub\\TestGithub\\TestGithub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\TestGithub\\TestGithub\\TestGithub.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Demo1\\TestGithub\\TestGithub\\TestGithub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TestGithub\\TestGithub\\TestGithub.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Demo1\\TestGithub\\TestGithub\\TestGithub.csproj",
         "projectName": "TestGithub",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\TestGithub\\TestGithub\\TestGithub.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Demo1\\TestGithub\\TestGithub\\TestGithub.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\TestGithub\\TestGithub\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Demo1\\TestGithub\\TestGithub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
