@@ -9,9 +9,8 @@
     <Grid>
         <StackPanel>
         <Button Content="aaa"/>
-        <Button Content="aaa"/>
-        <Button Content="aaa"/>
-        <Button Content="aaa"/>
+            <Button Content="aaa"/>
+            <Button Content="aaa"/>
         </StackPanel>
     </Grid>
 </Window>

@@ -28,7 +28,7 @@ namespace TestGithub
         int a = 3;
 =======
 =======
-        string d = "xin asdasdasds";
+        string d = "xin";
         public int b = 5;
 >>>>>>> 7b1432ec59634367a743ca81cdd11285771c8ab4
     }
